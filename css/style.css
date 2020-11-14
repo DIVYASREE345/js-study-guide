@@ -101,10 +101,6 @@ footer {
   margin: auto;
   max-width: 3000px;
 }
-.fixed{
-  position: fixed;
-  bottom: 0px;
-}
 
 footer .container {
   display: flex;
@@ -287,6 +283,11 @@ hr {
 }
 
 /* Bermarte's section */
+
+.snippet {
+  background-color: red;
+  width: auto;
+}
 
 #ul-conditionals {
   line-height: 2.5rem;
@@ -544,6 +545,20 @@ hr {
     display: none;
   }
 
+  .loop-wrap,
+  .guide {
+    margin: 0.5rem;
+    padding: 1rem;
+  }
+
+  .guide{
+    width: 95%;
+  }
+
+  .loop-text-wrap {
+    margin: 2rem;
+  }
+
 }
 
 @media only screen and (max-width: 300px) {
@@ -578,6 +593,24 @@ hr {
 
   .breadcrumb {
     display: none;
+  }
+
+  .header-links {
+    display: none;
+  }
+
+  .loop-wrap,
+  .guide {
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  .guide{
+    width: 95%;
+  }
+
+  .loop-text-wrap {
+    margin: 1rem;
   }
 
 }
