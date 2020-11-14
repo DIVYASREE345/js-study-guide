@@ -260,6 +260,9 @@ hr {
 .gutter {
   padding: 100px;
 }
+.guide h2{
+  line-height: 2.5rem;
+}
 
 .operations-paragraph h2 {
   font-size: 35px;
@@ -283,11 +286,6 @@ hr {
 }
 
 /* Bermarte's section */
-
-.snippet {
-  background-color: red;
-  width: auto;
-}
 
 #ul-conditionals {
   line-height: 2.5rem;
@@ -465,9 +463,7 @@ hr {
   position: relative;
   width: auto;
   height: auto;
-
   padding: 5rem;
-
   background: #d6d6d7;
   border-radius: 21px;
 }
@@ -529,7 +525,7 @@ hr {
   }
 
   #logo {
-    height: 80px;
+    height: 95px;
     filter: drop-shadow(9px 4px 23px rgba(0, 0, 0, 0.25));
   }
 
