@@ -348,7 +348,22 @@ footer ul li {
 .header-links ul li a:hover {
   color: red;
 }
-
+/*about-js*/
+.about-wrap h3{
+  text-align: right;
+  color:white;
+  padding-right: 5rem;
+  
+}
+.about-text  {
+  margin: 3rem 5rem;
+  position: relative;
+  width: auto;
+  height: auto;
+padding: 5rem;
+background:#A8DADC;
+  border-radius: 21px;
+}
 @media only screen and (max-width: 600px) {
   nav {
     background-color: #e43946;
@@ -385,6 +400,11 @@ footer ul li {
   .loop-text-wrap {
     margin: 2rem;
   }
+.about-text {
+  margin:1rem;
+  padding:1rem;
+  
+}
 }
 
 @media only screen and (max-width: 300px) {
