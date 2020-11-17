@@ -66,6 +66,8 @@ The `JS-study guide ` is designed on `FIGMA`
 
 ## 2. Index page
 
+Assigned to Divya
+
 - This user story is developed on branch `index`.
 - This branch is merged to `master` branch after completion.
 * Index page consists of a brief introduction on JavaScript (history, importances, uses)
@@ -118,6 +120,8 @@ Assigned to Divya
       
  ## 8. Finishing touches
  
+   Assigned to Bermarte
+   
  * HTML and CSS Validation
  * Fix bugs
  * Check consistency
