@@ -514,8 +514,8 @@ hr {
   position: relative;
   width: auto;
   height: auto;
-padding: 5rem;
-background:#A8DADC;
+  padding: 3rem;
+  background:#A8DADC;
   border-radius: 21px;
 }
 @media only screen and (max-width: 600px) {
