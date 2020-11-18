@@ -29,8 +29,7 @@ How to [Embed Videos](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/
 ---
 
 ## User Story Dependencies
-
-![dependencies](dependencies.svg)    
+<img src="dependencies.svg" alt="drawing" width="550"/> 
 [Story Dependency Diagram](https://excalidraw.com/#json=4863576330207232,aebTU5nKUbsZn0LZVkRBHw)
 
 ---
