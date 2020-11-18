@@ -21,7 +21,7 @@ It's time for some UX & UI! Take your time in the first week to plan and design 
     ... Anything goes!
 
 [HYF debugging](https://github.com/HackYourFutureBelgium/debugging)     
-How to [Embedded Videos](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)    
+How to [Embed Videos](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)    
 [Group issue](https://github.com/HackYourFutureBelgium/class-11-12/issues/171)
 
 
