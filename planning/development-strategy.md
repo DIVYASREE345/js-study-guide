@@ -4,7 +4,7 @@ From [HYF](https://github.com/HackYourFutureBelgium/debugging#after-class-1)
 
 This is the beginning of a two-week project. Each group will plan and build their own JS Study Guide using this starter repository. The project will be written using only HTML & CSS. You will need to write some JavaScript for this project, but all the code you write will be examples and exercises like in this Debugging repository. You are not expected to use JavaScript for DOM Manipulation, or any other type of interactivity.
 
-To help you build an interactive study guide, the repository comes with a custom HTML element <code-along src='./path/to/file.js'></code-along>. Using this component you will be able to embed interactive code snippets much like the study-lenses exercises. If you're looking for a good way to organize your topics, consider having these 4 sections for each:
+To help you build an interactive study guide, the repository comes with a custom HTML element ```javascript <code-along src='./path/to/file.js'></code-along>```. Using this component you will be able to embed interactive code snippets much like the study-lenses exercises. If you're looking for a good way to organize your topics, consider having these 4 sections for each:
 
     Essence: present in 2-3 sentences what you will cover and why you need to know it.
     Examples: present a couple examples of this concept with simple code snippets
@@ -13,14 +13,17 @@ To help you build an interactive study guide, the repository comes with a custom
 
 It's time for some UX & UI! Take your time in the first week to plan and design your study guide for the best study experience possible. Your study guide can include anything you think will be helpful:
 
-    Explanations
-    Diagrams
-    Links
-    Code Snippets
-    Embedded Videos
+    - Explanations
+    - Diagrams
+    - Links
+    - Code Snippets
+    - Embedded Videos
     ... Anything goes!
 
-check the [complete repo](https://github.com/HackYourFutureBelgium/debugging)
+Check the [complete repo](https://github.com/HackYourFutureBelgium/debugging)    
+How to [Embedded Videos](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)    
+[HYF debugging](https://github.com/HackYourFutureBelgium/debugging)   
+[Group issue](https://github.com/HackYourFutureBelgium/class-11-12/issues/171)
 
 
 ---
